@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Undertale</GameName>
+  <CategoryName>Genocide Ending</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>4</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="07/08/2024 04:42:22" isStartedSynced="True" ended="07/08/2024 04:44:15" isEndedSynced="True" />
+    <Attempt id="2" started="07/08/2024 04:46:00" isStartedSynced="True" ended="07/08/2024 06:03:11" isEndedSynced="True">
+      <RealTime>01:17:10.5667721</RealTime>
+    </Attempt>
+    <Attempt id="3" started="07/09/2024 03:21:10" isStartedSynced="True" ended="07/09/2024 04:35:29" isEndedSynced="True">
+      <RealTime>01:14:19.7774827</RealTime>
+    </Attempt>
+    <Attempt id="4" started="07/09/2024 21:44:45" isStartedSynced="True" ended="07/09/2024 22:57:35" isEndedSynced="True">
+      <RealTime>01:12:49.8401690</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Toriel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:30.9165744</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:30.9165744</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:12:32.0161107</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:12:04.7781021</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:11:30.9165744</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Papyrus</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:08.3237556</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:37.4071812</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:13:41.9224558</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:13:44.0659925</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:13:37.4071812</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Undyne</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:42:52.8277317</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:17:44.5039761</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:22:48.3562458</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:18:33.9106172</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:17:44.5039761</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Muffet</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:47:29.6283390</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:46.2780548</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:46.2780548</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:05:19.4691705</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:04:36.8006073</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mettaton</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:57:48.1753726</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:43.3943597</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:11:52.0546752</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:09:43.3943597</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:10:18.5470336</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sans</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:09:55.9909727</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:01.2548982</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:12:34.9467917</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:12:01.2548982</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:12:07.8156001</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Erase</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:12:49.8401690</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:52.9043425</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:54.9924381</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:52.9043425</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:53.8491963</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>H:\LiveSplit_1.8.29\Components\ut_autosplitter_common_r6.asl</ScriptPath>
+    <CustomSettings />
+  </AutoSplitterSettings>
+</Run>
